@@ -143,6 +143,7 @@ project
 ## Technologies Used
 
 - **Programming Language**: Java
+- **Testing Framework**: Junit
 - **Database**: MySQL
 - **JDBC**: For database connectivity
 
